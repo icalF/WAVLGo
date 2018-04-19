@@ -105,4 +105,3 @@ func TestDelete2(t *testing.T) {
 	tree.Delete(key(1))
 	tree.Delete(key(2))
 }
-
